@@ -4,6 +4,7 @@
 // @version  1
 // @namespace http://www.lifenoodles.com/gmscripts
 // @include  https://arkhamdb.com/deck/edit/*
+// @author   Donagh Hatton
 // ==/UserScript==
 
 const DECK_TOO_SMALL = "too few cards";
